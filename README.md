@@ -1,32 +1,28 @@
 <!-- BANNER -->
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Paulo%20Ramos&de&OliveirafontSize=36&fontColor=ffffff&animation=fadeIn)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Paulo%20Ramos%20de%20Oliveira&fontSize=34&fontColor=ffffff&animation=fadeIn)
 
-# 👋 Olá, eu sou o Paulo Ramos de Oliveira!
+# 👨‍💻 Paulo Ramos de Oliveira
 
 🎓 **Estudante de Sistemas de Informação — Faculdade Estácio**  
-💻 **Desenvolvedor em formação | Tecnologia | Programação | Dados**  
+💻 **Desenvolvedor em formação | Programação | Tecnologia | Dados**  
 🚀 Em constante evolução na área de **Desenvolvimento de Software**
 
 ---
 
 ## 📚 Sobre mim
 
-- ✅ Estudante de **Sistemas de Informação**
-- ✅ Em transição definitiva de carreira para a **Tecnologia**
-- ✅ Experiência anterior em:
-  - Educação (Professor)
-  - Tradução Freelancer
-  - Segurança Patrimonial
-  - Marketing Digital Orgânico
-  - Vendas
-- ✅ Focado atualmente em:
-  - **Programação**
-  - **Desenvolvimento de Sistemas**
-  - **Projetos práticos**
+Sou estudante de **Sistemas de Informação** pela **Faculdade Estácio**, atualmente em fase de fortalecimento da base em **programação**, com foco em desenvolvimento de software e projetos práticos. Estou em transição definitiva de carreira para a área de tecnologia.
+
+✅ Experiência anterior em:
+- Educação (Professor)
+- Tradução Freelancer
+- Segurança Patrimonial
+- Marketing Digital Orgânico
+- Vendas
 
 ---
 
-## 🧠 Tecnologias que estou estudando
+## 🧠 Tecnologias que estudo
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
@@ -54,7 +50,7 @@
 - ✅ Projetos Web (HTML, CSS, JavaScript)
 - ✅ Estudos de Dados
 
-👉 Acesse todos os repositórios abaixo ⬇️
+👉 Explore meus repositórios abaixo ⬇️
 
 ---
 
@@ -66,7 +62,7 @@
 
 ---
 
-## 👥 Visitantes no meu perfil
+## 👥 Visitantes no perfil
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pauloramos38&color=blueviolet&style=for-the-badge)
 
@@ -74,8 +70,8 @@
 
 ## 🌐 Onde me encontrar
 
-📌 GitHub: https://github.com/pauloramos38  
+🔗 GitHub: https://github.com/pauloramos38  
 
 ---
 
-🔥 *Este perfil está em constante evolução, assim como minha jornada na tecnologia!*
+🔥 *Perfil em constante crescimento, acompanhando minha evolução na tecnologia.*
