@@ -1,14 +1,20 @@
 #include <stdio.h>
 
+// Programa Super Trunfo - Cadastro de Cartas
+// Esse programa cadastra duas cartas com dados de cidades
 int main() {
+      // =========================
+    // DECLARAÇÃO DAS VARIÁVEIS
+    // =========================
 
-    char estado1;
-    char codigo1[4];
-    char cidade1[30];
-    int populacao1;
-    float area1;
-    float pib1;
-    int pontos1;
+    // Dados da Carta 1
+    char estado1;     // Letra do estado da primeira carta
+    char codigo1[4];  // Código da carta (ex: A01)
+    char cidade1[30]; // Nome da cidade
+    int populacao1;   // População da cidade
+    float area1;      // Área da cidade
+    float pib1;       // PIB da cidade
+    int pontos1;      // Pontos turísticos
 
     char estado2;
     char codigo2[4];
@@ -18,27 +24,35 @@ int main() {
     float pib2;
     int pontos2;
 
+   // =========================
+    // ENTRADA DE DADOS DA CARTA 1
+    // =========================
+
     printf("Cadastro da Carta 1\n");
-    printf("Estado (A a H): ");
+    printf("Estado (A a H): "); // Lê o estado da carta 1
     scanf(" %c", &estado1);
 
     printf("Codigo da carta: ");
-    scanf("%s", codigo1);
+    scanf("%s", codigo1);       // Lê o código da carta 1
 
     printf("Nome da cidade: ");
-    scanf(" %[^\n]", cidade1);
+    scanf(" %[^\n]", cidade1); // Lê o nome da cidade
 
     printf("Populacao: ");
-    scanf("%d", &populacao1);
+    scanf("%d", &populacao1); // Lê a população
 
     printf("Area: ");
-    scanf("%f", &area1);
+    scanf("%f", &area1);      // Lê a área
 
     printf("PIB: ");
-    scanf("%f", &pib1);
+    scanf("%f", &pib1);      // Lê o PIB
 
     printf("Pontos turisticos: ");
-    scanf("%d", &pontos1);
+    scanf("%d", &pontos1);   // Lê os pontos turísticos
+
+     // =========================
+    // ENTRADA DE DADOS DA CARTA 2
+    // =========================
 
     printf("\nCadastro da Carta 2\n");
     printf("Estado (A a H): ");
@@ -59,8 +73,12 @@ int main() {
     printf("PIB: ");
     scanf("%f", &pib2);
 
-    printf("Pontos turisticos: ");
+    printf("Pontos turisticos: "); 
     scanf("%d", &pontos2);
+
+    // =========================
+    // EXIBIÇÃO DOS DADOS
+    // =========================
 
     printf("\nCarta 1\n");
     printf("Estado: %c\n", estado1);
@@ -80,5 +98,5 @@ int main() {
     printf("PIB: %.2f\n", pib2);
     printf("Pontos turisticos: %d\n", pontos2);
 
-    return 0;
+    return 0; // Finaliza o programa
 }
